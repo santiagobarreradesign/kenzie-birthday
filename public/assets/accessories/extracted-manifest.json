@@ -1,0 +1,1127 @@
+[
+  {
+    "file": "martini-01.png",
+    "source": "download__2_-6f4b263c-ded4-4af4-aa85-a9eb73c0bfe4.png",
+    "bbox": [
+      44,
+      313,
+      546,
+      705
+    ],
+    "area": 64191,
+    "size": [
+      478,
+      368
+    ]
+  },
+  {
+    "file": "disco-stars-01.png",
+    "source": "28a505c86ad5c2f5332ae9f4d3b84565-8ab58b42-ac88-4ce9-9993-5de440b31249.png",
+    "bbox": [
+      109,
+      225,
+      614,
+      616
+    ],
+    "area": 74851,
+    "size": [
+      505,
+      391
+    ]
+  },
+  {
+    "file": "disco-stars-02.png",
+    "source": "28a505c86ad5c2f5332ae9f4d3b84565-8ab58b42-ac88-4ce9-9993-5de440b31249.png",
+    "bbox": [
+      450,
+      92,
+      600,
+      212
+    ],
+    "area": 5076,
+    "size": [
+      150,
+      120
+    ]
+  },
+  {
+    "file": "disco-stars-03.png",
+    "source": "28a505c86ad5c2f5332ae9f4d3b84565-8ab58b42-ac88-4ce9-9993-5de440b31249.png",
+    "bbox": [
+      309,
+      185,
+      399,
+      279
+    ],
+    "area": 2605,
+    "size": [
+      90,
+      94
+    ]
+  },
+  {
+    "file": "disco-stars-04.png",
+    "source": "28a505c86ad5c2f5332ae9f4d3b84565-8ab58b42-ac88-4ce9-9993-5de440b31249.png",
+    "bbox": [
+      385,
+      205,
+      461,
+      278
+    ],
+    "area": 1386,
+    "size": [
+      76,
+      73
+    ]
+  },
+  {
+    "file": "disco-stars-05.png",
+    "source": "28a505c86ad5c2f5332ae9f4d3b84565-8ab58b42-ac88-4ce9-9993-5de440b31249.png",
+    "bbox": [
+      284,
+      231,
+      328,
+      279
+    ],
+    "area": 375,
+    "size": [
+      44,
+      48
+    ]
+  },
+  {
+    "file": "disco-stars-06.png",
+    "source": "28a505c86ad5c2f5332ae9f4d3b84565-8ab58b42-ac88-4ce9-9993-5de440b31249.png",
+    "bbox": [
+      325,
+      344,
+      389,
+      380
+    ],
+    "area": 308,
+    "size": [
+      64,
+      36
+    ]
+  },
+  {
+    "file": "disco-stars-07.png",
+    "source": "28a505c86ad5c2f5332ae9f4d3b84565-8ab58b42-ac88-4ce9-9993-5de440b31249.png",
+    "bbox": [
+      251,
+      276,
+      300,
+      326
+    ],
+    "area": 285,
+    "size": [
+      49,
+      50
+    ]
+  },
+  {
+    "file": "disco-stars-08.png",
+    "source": "28a505c86ad5c2f5332ae9f4d3b84565-8ab58b42-ac88-4ce9-9993-5de440b31249.png",
+    "bbox": [
+      411,
+      180,
+      454,
+      220
+    ],
+    "area": 272,
+    "size": [
+      43,
+      40
+    ]
+  },
+  {
+    "file": "disco-stars-09.png",
+    "source": "28a505c86ad5c2f5332ae9f4d3b84565-8ab58b42-ac88-4ce9-9993-5de440b31249.png",
+    "bbox": [
+      403,
+      277,
+      440,
+      311
+    ],
+    "area": 203,
+    "size": [
+      37,
+      34
+    ]
+  },
+  {
+    "file": "holo-star-01.png",
+    "source": "1a20c8a1fe07003fe15a17dad6fd02bc-e800324c-13cf-4354-b11f-1a41ab106479.png",
+    "bbox": [
+      373,
+      159,
+      527,
+      311
+    ],
+    "area": 8689,
+    "size": [
+      142,
+      140
+    ]
+  },
+  {
+    "file": "holo-star-02.png",
+    "source": "1a20c8a1fe07003fe15a17dad6fd02bc-e800324c-13cf-4354-b11f-1a41ab106479.png",
+    "bbox": [
+      184,
+      717,
+      337,
+      864
+    ],
+    "area": 8558,
+    "size": [
+      141,
+      135
+    ]
+  },
+  {
+    "file": "holo-star-03.png",
+    "source": "1a20c8a1fe07003fe15a17dad6fd02bc-e800324c-13cf-4354-b11f-1a41ab106479.png",
+    "bbox": [
+      563,
+      358,
+      716,
+      506
+    ],
+    "area": 8553,
+    "size": [
+      141,
+      136
+    ]
+  },
+  {
+    "file": "holo-star-04.png",
+    "source": "1a20c8a1fe07003fe15a17dad6fd02bc-e800324c-13cf-4354-b11f-1a41ab106479.png",
+    "bbox": [
+      518,
+      512,
+      652,
+      653
+    ],
+    "area": 7196,
+    "size": [
+      122,
+      129
+    ]
+  },
+  {
+    "file": "holo-star-05.png",
+    "source": "1a20c8a1fe07003fe15a17dad6fd02bc-e800324c-13cf-4354-b11f-1a41ab106479.png",
+    "bbox": [
+      511,
+      35,
+      644,
+      170
+    ],
+    "area": 7140,
+    "size": [
+      121,
+      123
+    ]
+  },
+  {
+    "file": "holo-star-06.png",
+    "source": "1a20c8a1fe07003fe15a17dad6fd02bc-e800324c-13cf-4354-b11f-1a41ab106479.png",
+    "bbox": [
+      337,
+      871,
+      470,
+      1007
+    ],
+    "area": 7140,
+    "size": [
+      121,
+      124
+    ]
+  },
+  {
+    "file": "holo-star-07.png",
+    "source": "1a20c8a1fe07003fe15a17dad6fd02bc-e800324c-13cf-4354-b11f-1a41ab106479.png",
+    "bbox": [
+      39,
+      222,
+      173,
+      358
+    ],
+    "area": 6969,
+    "size": [
+      122,
+      124
+    ]
+  },
+  {
+    "file": "holo-star-08.png",
+    "source": "1a20c8a1fe07003fe15a17dad6fd02bc-e800324c-13cf-4354-b11f-1a41ab106479.png",
+    "bbox": [
+      562,
+      871,
+      697,
+      1003
+    ],
+    "area": 6739,
+    "size": [
+      123,
+      120
+    ]
+  },
+  {
+    "file": "holo-star-09.png",
+    "source": "1a20c8a1fe07003fe15a17dad6fd02bc-e800324c-13cf-4354-b11f-1a41ab106479.png",
+    "bbox": [
+      346,
+      496,
+      481,
+      628
+    ],
+    "area": 6737,
+    "size": [
+      123,
+      120
+    ]
+  },
+  {
+    "file": "holo-star-10.png",
+    "source": "1a20c8a1fe07003fe15a17dad6fd02bc-e800324c-13cf-4354-b11f-1a41ab106479.png",
+    "bbox": [
+      289,
+      22,
+      424,
+      156
+    ],
+    "area": 6733,
+    "size": [
+      123,
+      122
+    ]
+  },
+  {
+    "file": "holo-star-11.png",
+    "source": "1a20c8a1fe07003fe15a17dad6fd02bc-e800324c-13cf-4354-b11f-1a41ab106479.png",
+    "bbox": [
+      22,
+      767,
+      156,
+      902
+    ],
+    "area": 6732,
+    "size": [
+      128,
+      129
+    ]
+  },
+  {
+    "file": "holo-star-12.png",
+    "source": "1a20c8a1fe07003fe15a17dad6fd02bc-e800324c-13cf-4354-b11f-1a41ab106479.png",
+    "bbox": [
+      162,
+      522,
+      304,
+      672
+    ],
+    "area": 6639,
+    "size": [
+      130,
+      138
+    ]
+  },
+  {
+    "file": "holo-star-13.png",
+    "source": "1a20c8a1fe07003fe15a17dad6fd02bc-e800324c-13cf-4354-b11f-1a41ab106479.png",
+    "bbox": [
+      514,
+      680,
+      656,
+      829
+    ],
+    "area": 6634,
+    "size": [
+      130,
+      137
+    ]
+  },
+  {
+    "file": "holo-star-14.png",
+    "source": "1a20c8a1fe07003fe15a17dad6fd02bc-e800324c-13cf-4354-b11f-1a41ab106479.png",
+    "bbox": [
+      53,
+      390,
+      184,
+      521
+    ],
+    "area": 6430,
+    "size": [
+      119,
+      119
+    ]
+  },
+  {
+    "file": "holo-star-15.png",
+    "source": "1a20c8a1fe07003fe15a17dad6fd02bc-e800324c-13cf-4354-b11f-1a41ab106479.png",
+    "bbox": [
+      69,
+      30,
+      199,
+      161
+    ],
+    "area": 6426,
+    "size": [
+      118,
+      119
+    ]
+  },
+  {
+    "file": "holo-star-16.png",
+    "source": "1a20c8a1fe07003fe15a17dad6fd02bc-e800324c-13cf-4354-b11f-1a41ab106479.png",
+    "bbox": [
+      104,
+      879,
+      233,
+      1010
+    ],
+    "area": 6421,
+    "size": [
+      117,
+      119
+    ]
+  },
+  {
+    "file": "holo-star-17.png",
+    "source": "1a20c8a1fe07003fe15a17dad6fd02bc-e800324c-13cf-4354-b11f-1a41ab106479.png",
+    "bbox": [
+      363,
+      652,
+      498,
+      773
+    ],
+    "area": 6413,
+    "size": [
+      123,
+      109
+    ]
+  },
+  {
+    "file": "holo-star-18.png",
+    "source": "1a20c8a1fe07003fe15a17dad6fd02bc-e800324c-13cf-4354-b11f-1a41ab106479.png",
+    "bbox": [
+      22,
+      601,
+      150,
+      718
+    ],
+    "area": 5886,
+    "size": [
+      116,
+      105
+    ]
+  },
+  {
+    "file": "holo-star-19.png",
+    "source": "1a20c8a1fe07003fe15a17dad6fd02bc-e800324c-13cf-4354-b11f-1a41ab106479.png",
+    "bbox": [
+      255,
+      348,
+      383,
+      468
+    ],
+    "area": 5849,
+    "size": [
+      116,
+      108
+    ]
+  },
+  {
+    "file": "holo-star-20.png",
+    "source": "1a20c8a1fe07003fe15a17dad6fd02bc-e800324c-13cf-4354-b11f-1a41ab106479.png",
+    "bbox": [
+      429,
+      336,
+      556,
+      452
+    ],
+    "area": 5499,
+    "size": [
+      115,
+      104
+    ]
+  },
+  {
+    "file": "holo-star-21.png",
+    "source": "1a20c8a1fe07003fe15a17dad6fd02bc-e800324c-13cf-4354-b11f-1a41ab106479.png",
+    "bbox": [
+      190,
+      194,
+      314,
+      309
+    ],
+    "area": 5336,
+    "size": [
+      112,
+      103
+    ]
+  },
+  {
+    "file": "holo-star-22.png",
+    "source": "1a20c8a1fe07003fe15a17dad6fd02bc-e800324c-13cf-4354-b11f-1a41ab106479.png",
+    "bbox": [
+      536,
+      222,
+      656,
+      341
+    ],
+    "area": 5293,
+    "size": [
+      108,
+      107
+    ]
+  },
+  {
+    "file": "drink-01.png",
+    "source": "download__3_-cf8586cf-8c4f-4e4c-ac2b-6add4d80f8f2.png",
+    "bbox": [
+      345,
+      0,
+      576,
+      230
+    ],
+    "area": 18653,
+    "size": [
+      221,
+      220
+    ]
+  },
+  {
+    "file": "drink-02.png",
+    "source": "download__3_-cf8586cf-8c4f-4e4c-ac2b-6add4d80f8f2.png",
+    "bbox": [
+      54,
+      727,
+      205,
+      1024
+    ],
+    "area": 18280,
+    "size": [
+      131,
+      294
+    ]
+  },
+  {
+    "file": "drink-03.png",
+    "source": "download__3_-cf8586cf-8c4f-4e4c-ac2b-6add4d80f8f2.png",
+    "bbox": [
+      399,
+      472,
+      576,
+      661
+    ],
+    "area": 16709,
+    "size": [
+      167,
+      169
+    ]
+  },
+  {
+    "file": "drink-04.png",
+    "source": "download__3_-cf8586cf-8c4f-4e4c-ac2b-6add4d80f8f2.png",
+    "bbox": [
+      0,
+      289,
+      159,
+      489
+    ],
+    "area": 15345,
+    "size": [
+      149,
+      180
+    ]
+  },
+  {
+    "file": "drink-05.png",
+    "source": "download__3_-cf8586cf-8c4f-4e4c-ac2b-6add4d80f8f2.png",
+    "bbox": [
+      235,
+      797,
+      382,
+      1024
+    ],
+    "area": 15248,
+    "size": [
+      127,
+      217
+    ]
+  },
+  {
+    "file": "drink-06.png",
+    "source": "download__3_-cf8586cf-8c4f-4e4c-ac2b-6add4d80f8f2.png",
+    "bbox": [
+      0,
+      108,
+      205,
+      277
+    ],
+    "area": 14813,
+    "size": [
+      195,
+      149
+    ]
+  },
+  {
+    "file": "drink-07.png",
+    "source": "download__3_-cf8586cf-8c4f-4e4c-ac2b-6add4d80f8f2.png",
+    "bbox": [
+      425,
+      266,
+      576,
+      454
+    ],
+    "area": 13362,
+    "size": [
+      141,
+      168
+    ]
+  },
+  {
+    "file": "drink-08.png",
+    "source": "download__3_-cf8586cf-8c4f-4e4c-ac2b-6add4d80f8f2.png",
+    "bbox": [
+      0,
+      509,
+      189,
+      774
+    ],
+    "area": 13018,
+    "size": [
+      179,
+      255
+    ]
+  },
+  {
+    "file": "drink-09.png",
+    "source": "download__3_-cf8586cf-8c4f-4e4c-ac2b-6add4d80f8f2.png",
+    "bbox": [
+      209,
+      0,
+      330,
+      185
+    ],
+    "area": 11163,
+    "size": [
+      101,
+      175
+    ]
+  },
+  {
+    "file": "drink-10.png",
+    "source": "download__3_-cf8586cf-8c4f-4e4c-ac2b-6add4d80f8f2.png",
+    "bbox": [
+      432,
+      668,
+      576,
+      890
+    ],
+    "area": 10160,
+    "size": [
+      134,
+      212
+    ]
+  },
+  {
+    "file": "drink-11.png",
+    "source": "download__3_-cf8586cf-8c4f-4e4c-ac2b-6add4d80f8f2.png",
+    "bbox": [
+      425,
+      864,
+      517,
+      1024
+    ],
+    "area": 7188,
+    "size": [
+      72,
+      157
+    ]
+  },
+  {
+    "file": "vintage-disco-01.png",
+    "source": "download__1_-d32dfdf7-8475-47a8-b1f7-1f79f8f677cc.png",
+    "bbox": [
+      22,
+      0,
+      557,
+      892
+    ],
+    "area": 232637,
+    "size": [
+      515,
+      881
+    ]
+  },
+  {
+    "file": "star-01.png",
+    "source": "download__4_-20533098-1c05-4f1b-9b61-a3b40fcd4d8e.png",
+    "bbox": [
+      339,
+      225,
+      576,
+      617
+    ],
+    "area": 30816,
+    "size": [
+      237,
+      392
+    ]
+  },
+  {
+    "file": "star-02.png",
+    "source": "download__4_-20533098-1c05-4f1b-9b61-a3b40fcd4d8e.png",
+    "bbox": [
+      166,
+      187,
+      388,
+      579
+    ],
+    "area": 27819,
+    "size": [
+      222,
+      384
+    ]
+  },
+  {
+    "file": "star-03.png",
+    "source": "download__4_-20533098-1c05-4f1b-9b61-a3b40fcd4d8e.png",
+    "bbox": [
+      352,
+      0,
+      576,
+      238
+    ],
+    "area": 23642,
+    "size": [
+      216,
+      236
+    ]
+  },
+  {
+    "file": "star-04.png",
+    "source": "download__4_-20533098-1c05-4f1b-9b61-a3b40fcd4d8e.png",
+    "bbox": [
+      0,
+      186,
+      208,
+      404
+    ],
+    "area": 17177,
+    "size": [
+      200,
+      218
+    ]
+  },
+  {
+    "file": "star-05.png",
+    "source": "download__4_-20533098-1c05-4f1b-9b61-a3b40fcd4d8e.png",
+    "bbox": [
+      200,
+      702,
+      379,
+      867
+    ],
+    "area": 14343,
+    "size": [
+      163,
+      157
+    ]
+  },
+  {
+    "file": "star-06.png",
+    "source": "download__4_-20533098-1c05-4f1b-9b61-a3b40fcd4d8e.png",
+    "bbox": [
+      25,
+      575,
+      211,
+      754
+    ],
+    "area": 13235,
+    "size": [
+      170,
+      163
+    ]
+  },
+  {
+    "file": "star-07.png",
+    "source": "download__4_-20533098-1c05-4f1b-9b61-a3b40fcd4d8e.png",
+    "bbox": [
+      378,
+      850,
+      562,
+      1024
+    ],
+    "area": 13216,
+    "size": [
+      168,
+      173
+    ]
+  },
+  {
+    "file": "star-08.png",
+    "source": "download__4_-20533098-1c05-4f1b-9b61-a3b40fcd4d8e.png",
+    "bbox": [
+      10,
+      16,
+      186,
+      195
+    ],
+    "area": 11127,
+    "size": [
+      168,
+      171
+    ]
+  },
+  {
+    "file": "star-09.png",
+    "source": "download__4_-20533098-1c05-4f1b-9b61-a3b40fcd4d8e.png",
+    "bbox": [
+      432,
+      596,
+      572,
+      738
+    ],
+    "area": 8721,
+    "size": [
+      124,
+      134
+    ]
+  },
+  {
+    "file": "star-10.png",
+    "source": "download__4_-20533098-1c05-4f1b-9b61-a3b40fcd4d8e.png",
+    "bbox": [
+      32,
+      391,
+      185,
+      572
+    ],
+    "area": 8587,
+    "size": [
+      137,
+      173
+    ]
+  },
+  {
+    "file": "star-11.png",
+    "source": "download__4_-20533098-1c05-4f1b-9b61-a3b40fcd4d8e.png",
+    "bbox": [
+      224,
+      586,
+      373,
+      720
+    ],
+    "area": 7992,
+    "size": [
+      133,
+      126
+    ]
+  },
+  {
+    "file": "star-12.png",
+    "source": "download__4_-20533098-1c05-4f1b-9b61-a3b40fcd4d8e.png",
+    "bbox": [
+      31,
+      878,
+      165,
+      1016
+    ],
+    "area": 6818,
+    "size": [
+      118,
+      122
+    ]
+  },
+  {
+    "file": "star-13.png",
+    "source": "download__4_-20533098-1c05-4f1b-9b61-a3b40fcd4d8e.png",
+    "bbox": [
+      409,
+      739,
+      536,
+      865
+    ],
+    "area": 6183,
+    "size": [
+      111,
+      118
+    ]
+  },
+  {
+    "file": "star-14.png",
+    "source": "download__4_-20533098-1c05-4f1b-9b61-a3b40fcd4d8e.png",
+    "bbox": [
+      220,
+      879,
+      362,
+      1019
+    ],
+    "area": 5635,
+    "size": [
+      126,
+      124
+    ]
+  },
+  {
+    "file": "star-15.png",
+    "source": "download__4_-20533098-1c05-4f1b-9b61-a3b40fcd4d8e.png",
+    "bbox": [
+      196,
+      54,
+      329,
+      192
+    ],
+    "area": 5554,
+    "size": [
+      133,
+      138
+    ]
+  },
+  {
+    "file": "scrap-01.png",
+    "source": "download-8c0accf7-130e-4e71-88cc-54dcef849cbb.png",
+    "bbox": [
+      254,
+      561,
+      576,
+      1001
+    ],
+    "area": 70180,
+    "size": [
+      322,
+      440
+    ]
+  },
+  {
+    "file": "scrap-02.png",
+    "source": "download-8c0accf7-130e-4e71-88cc-54dcef849cbb.png",
+    "bbox": [
+      0,
+      459,
+      351,
+      708
+    ],
+    "area": 41422,
+    "size": [
+      344,
+      241
+    ]
+  },
+  {
+    "file": "scrap-03.png",
+    "source": "download-8c0accf7-130e-4e71-88cc-54dcef849cbb.png",
+    "bbox": [
+      62,
+      788,
+      293,
+      1023
+    ],
+    "area": 19371,
+    "size": [
+      231,
+      227
+    ]
+  },
+  {
+    "file": "scrap-04.png",
+    "source": "download-8c0accf7-130e-4e71-88cc-54dcef849cbb.png",
+    "bbox": [
+      355,
+      0,
+      557,
+      180
+    ],
+    "area": 19288,
+    "size": [
+      197,
+      176
+    ]
+  },
+  {
+    "file": "scrap-05.png",
+    "source": "download-8c0accf7-130e-4e71-88cc-54dcef849cbb.png",
+    "bbox": [
+      320,
+      370,
+      537,
+      576
+    ],
+    "area": 18217,
+    "size": [
+      217,
+      206
+    ]
+  },
+  {
+    "file": "scrap-06.png",
+    "source": "download-8c0accf7-130e-4e71-88cc-54dcef849cbb.png",
+    "bbox": [
+      6,
+      149,
+      233,
+      456
+    ],
+    "area": 14911,
+    "size": [
+      219,
+      302
+    ]
+  },
+  {
+    "file": "scrap-07.png",
+    "source": "download-8c0accf7-130e-4e71-88cc-54dcef849cbb.png",
+    "bbox": [
+      180,
+      315,
+      339,
+      465
+    ],
+    "area": 14308,
+    "size": [
+      151,
+      142
+    ]
+  },
+  {
+    "file": "scrap-08.png",
+    "source": "download-8c0accf7-130e-4e71-88cc-54dcef849cbb.png",
+    "bbox": [
+      272,
+      185,
+      567,
+      431
+    ],
+    "area": 13180,
+    "size": [
+      295,
+      246
+    ]
+  },
+  {
+    "file": "scrap-09.png",
+    "source": "download-8c0accf7-130e-4e71-88cc-54dcef849cbb.png",
+    "bbox": [
+      2,
+      617,
+      215,
+      832
+    ],
+    "area": 12540,
+    "size": [
+      205,
+      215
+    ]
+  },
+  {
+    "file": "scrap-10.png",
+    "source": "download-8c0accf7-130e-4e71-88cc-54dcef849cbb.png",
+    "bbox": [
+      48,
+      44,
+      182,
+      173
+    ],
+    "area": 12271,
+    "size": [
+      118,
+      113
+    ]
+  },
+  {
+    "file": "scrap-11.png",
+    "source": "download-8c0accf7-130e-4e71-88cc-54dcef849cbb.png",
+    "bbox": [
+      209,
+      28,
+      369,
+      217
+    ],
+    "area": 11000,
+    "size": [
+      160,
+      189
+    ]
+  },
+  {
+    "file": "scrap-12.png",
+    "source": "download-8c0accf7-130e-4e71-88cc-54dcef849cbb.png",
+    "bbox": [
+      412,
+      924,
+      576,
+      1024
+    ],
+    "area": 7986,
+    "size": [
+      164,
+      100
+    ]
+  },
+  {
+    "file": "scrap-13.png",
+    "source": "download-8c0accf7-130e-4e71-88cc-54dcef849cbb.png",
+    "bbox": [
+      264,
+      913,
+      366,
+      1015
+    ],
+    "area": 5750,
+    "size": [
+      94,
+      94
+    ]
+  },
+  {
+    "file": "scrap-14.png",
+    "source": "download-8c0accf7-130e-4e71-88cc-54dcef849cbb.png",
+    "bbox": [
+      479,
+      560,
+      568,
+      656
+    ],
+    "area": 4759,
+    "size": [
+      81,
+      96
+    ]
+  },
+  {
+    "file": "scrap-15.png",
+    "source": "download-8c0accf7-130e-4e71-88cc-54dcef849cbb.png",
+    "bbox": [
+      3,
+      775,
+      109,
+      881
+    ],
+    "area": 3925,
+    "size": [
+      98,
+      106
+    ]
+  },
+  {
+    "file": "scrap-16.png",
+    "source": "download-8c0accf7-130e-4e71-88cc-54dcef849cbb.png",
+    "bbox": [
+      151,
+      740,
+      259,
+      843
+    ],
+    "area": 3657,
+    "size": [
+      100,
+      103
+    ]
+  }
+]

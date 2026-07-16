@@ -5,10 +5,10 @@ import { ACCESSORIES } from "@/lib/constants/palette";
 import { useEditorStore } from "@/lib/store";
 
 const CATEGORIES = [
+  { id: "party", label: "Party" },
+  { id: "misc", label: "Stars & scrap" },
   { id: "eyewear", label: "Shades" },
   { id: "jewelry", label: "Jewelry" },
-  { id: "party", label: "Party" },
-  { id: "misc", label: "Stars" },
 ] as const;
 
 export default function AccessoryPalette() {

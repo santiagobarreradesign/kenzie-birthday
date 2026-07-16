@@ -1,4 +1,5 @@
 import type { AccessoryDef, BackgroundId } from "@/lib/types";
+import { EXTRACTED_ACCESSORIES } from "@/lib/constants/extracted-accessories";
 
 export const COLORS = {
   lime: "#E1ED3C",
@@ -22,6 +23,7 @@ export const BRUSH_COLORS = [
 ] as const;
 
 export const ACCESSORIES: AccessoryDef[] = [
+  ...EXTRACTED_ACCESSORIES,
   {
     id: "glasses-yellow",
     label: "Yellow shades",
@@ -44,27 +46,6 @@ export const ACCESSORIES: AccessoryDef[] = [
     defaultScale: 0.7,
   },
   {
-    id: "star-holo",
-    label: "Holo star",
-    src: "/assets/accessories/star-holo.svg",
-    category: "misc",
-    defaultScale: 0.55,
-  },
-  {
-    id: "star-red",
-    label: "Red star",
-    src: "/assets/accessories/star-red.svg",
-    category: "misc",
-    defaultScale: 0.5,
-  },
-  {
-    id: "star-blue",
-    label: "Blue star",
-    src: "/assets/accessories/star-blue.svg",
-    category: "misc",
-    defaultScale: 0.5,
-  },
-  {
     id: "cake",
     label: "Birthday cake",
     src: "/assets/accessories/cake.svg",
@@ -77,13 +58,6 @@ export const ACCESSORIES: AccessoryDef[] = [
     src: "/assets/accessories/balloon-dog.svg",
     category: "party",
     defaultScale: 0.8,
-  },
-  {
-    id: "disco-ball",
-    label: "Disco ball",
-    src: "/assets/accessories/disco-ball.svg",
-    category: "party",
-    defaultScale: 0.7,
   },
   {
     id: "confetti",
