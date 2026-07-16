@@ -57,8 +57,10 @@ Swap in transparent PNG cutouts anytime — keep the same filenames or update `l
 
 Live: [https://kenzie-birthday.vercel.app](https://kenzie-birthday.vercel.app)
 
+GitHub: [https://github.com/santiagobarreradesign/kenzie-birthday](https://github.com/santiagobarreradesign/kenzie-birthday)
+
 ```bash
-npx vercel --yes --name kenzie-birthday
+npx vercel --prod
 ```
 
 Set the Supabase + `ADMIN_PIN` env vars in the Vercel project settings for true shared persistence across visitors. Without Supabase, the app runs in demo mode (in-memory on Vercel, file-backed locally).
