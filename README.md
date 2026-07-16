@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Happy Birthday Kenzie ★
 
-## Getting Started
+A vintage-grunge interactive birthday tribute site. Friends can decorate Kenzie’s photo with stickers, doodle, swap backgrounds, tint her hair, leave floating love-note bubbles, and customize the marquee banner.
 
-First, run the development server:
+## Stack
+
+- **Next.js 15** (App Router) + TypeScript + Tailwind CSS
+- **react-konva** for the interactive collage canvas
+- **Framer Motion** for floating comment bubbles
+- **Zustand** for editor state
+- **Supabase** for shared persistence (Postgres + Storage + Realtime)
+- Falls back to a local `.data/store.json` when Supabase env vars are missing
+
+## Getting started
 
 ```bash
+npm install
+cp .env.local.example .env.local
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Supabase setup (shared mode)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. Create a Supabase project
+2. Run [`supabase/migrations/001_initial.sql`](supabase/migrations/001_initial.sql) in the SQL editor
+3. Fill `.env.local`:
 
-## Learn More
+```
+NEXT_PUBLIC_SUPABASE_URL=
+NEXT_PUBLIC_SUPABASE_ANON_KEY=
+SUPABASE_SERVICE_ROLE_KEY=
+ADMIN_PIN=kenzie
+```
 
-To learn more about Next.js, take a look at the following resources:
+Default admin PIN for marquee edits is `kenzie` (override with `ADMIN_PIN`).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Drag / rotate / scale accessory stickers from the “Purse”
+- Draw & erase on the canvas
+- Background swaps, hair tint, distort skew
+- **Add to collage** persists layers for everyone
+- Floating comment bubbles (expandable, optional photo)
+- Editable scrolling marquee (PIN-protected)
 
-## Deploy on Vercel
+## Assets
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Base photo: `public/assets/kenzie-base.png`
+- Stickers: `public/assets/accessories/*.svg`
+- Style references: `public/assets/references/`
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Swap in transparent PNG cutouts anytime — keep the same filenames or update `lib/constants/palette.ts`.
+
+## Deploy
+
+Live: [https://kenzie-birthday.vercel.app](https://kenzie-birthday.vercel.app)
+
+```bash
+npx vercel --yes --name kenzie-birthday
+```
+
+Set the Supabase + `ADMIN_PIN` env vars in the Vercel project settings for true shared persistence across visitors. Without Supabase, the app runs in demo mode (in-memory on Vercel, file-backed locally).
